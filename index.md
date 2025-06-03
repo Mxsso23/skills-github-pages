@@ -1,3 +1,7 @@
+---
+title: My page!
+---
+
 # This is my first page
 I lack of creativity I'm sorry
 ## There will be nothing here forever I fear

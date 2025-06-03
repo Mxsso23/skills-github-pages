@@ -1,6 +1,3 @@
----
-title: Welcome to my blog!
----
 # This is my first page
 I lack of creativity I'm sorry
 ## There will be nothing here forever I fear

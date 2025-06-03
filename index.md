@@ -1,11 +1,20 @@
 ---
-title: My page!
+title: Il Mio Covo Segreto Online!
 ---
 
-# This is my first page
-I lack of creativity I'm sorry
-## There will be nothing here forever I fear
+# Eccomi Qui! (Non ho ancora capito bene cosa farci)
 
-### Thanks for the visit tho!
-Here's a cookie for you!
-ヾ(＠⌒ー⌒＠)ノ🍪
+Ehilà! Siete capitati sulla mia primissima pagina. Lo so, l'ispirazione non è il mio forte oggi, ma apprezzate lo sforzo! 😉
+
+---
+
+## Un Vuoto Cosmico (per ora!)
+
+Non cercate tesori nascosti qui... per adesso c'è solo un'eco nel vuoto. Ma chi sa cosa riserverà il futuro! Forse una pioggia di unicorni? 🦄🌠
+
+---
+
+### Un Saluto e un Dolce!
+
+Grazie di cuore per essere passati! Avete guadagnato un bonus speciale.
+Godetevi questo: 🍪💖

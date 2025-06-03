@@ -1,1 +1,26 @@
-theme: minima
+# Site settings
+title: Il Mio Fantastico Sito
+email: iltuoemail@esempio.com
+description: >- # This means to ignore newlines until "baseurl:"
+  Il mio sito personale/blog/portfolio, creato con Jekyll e ospitato su GitHub Pages.
+
+baseurl: "/nome-del-tuo-repo" # The subpath of your site, e.g. /blog
+url: "https://iltuousername.github.io" # The base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown # You can also use "commonmark" or "redcarpet" if preferred
+theme: minima # The default Jekyll theme. Other options require gem installation.
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# For more information, please visit: https://jekyllrb.com/docs/configuration/#excluding-from-build
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - gemfiles/jekyll-theme-minima.gemspec
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
